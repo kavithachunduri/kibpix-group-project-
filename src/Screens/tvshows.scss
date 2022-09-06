@@ -154,3 +154,25 @@ color: white;
     -webkit-tap-highlight-color: transparent;
   }
 
+
+  @media only screen and (max-width: 600px){
+    .tvShows input{
+      margin-left: 80px;
+      margin-right: 40px;
+      width:150px;
+    }
+    .tvShows h1{
+      margin-left:20px ;
+    }
+    .logo img{
+      width:50px;
+      height:60px;
+    }
+    .navlink1{
+      
+      font-size:3rem;
+    }
+    .navlink{
+      font-size:1.5rem;
+    }
+  }
